@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "憑いている",
+  "base_artist": "Ruliea",
+  "createdAt": "2025-12-25T15:28:43.863942Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "憑いている (feat. 初音ミク)",
+      "artist": "Ruliea",
+      "has_synced": false,
+      "path": "select/pl_01_憑いている_(feat._初音ミク)_Ruliea.txt"
+    }
+  ]
+}
